@@ -1,5 +1,6 @@
 - 👋 Hi,It's Mac 
-- Damm me and follow me...
+- Damm me and follow me
+- Human Robot ...
 
 <!---
 AKKITMAC/AKKITMAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
